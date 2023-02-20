@@ -1,6 +1,7 @@
 ## 안녕하세요, 강세빈입니다. 👋
 제 깃허브에 방문해주셔서 감사합니다.
 사이버보안학부에 재학중이고 개발자를 꿈꾸는 21학번입니다 :)
+<hr>
 <div align="center">
 👩🏻‍💻 Experiences 👩🏻‍💻<br>
 - Kyungmin IT Highschool graduate <br>
@@ -20,6 +21,7 @@
 ![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
   
  </div>
+ <hr>
 <!--
 **SebIn020208/SebIn020208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,3 +43,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddhkd)](https://solved.ac/rkdehddhkd/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebIn020208)](https://github.com/SebIn020208/github-readme-stats)
+
+<hr>
