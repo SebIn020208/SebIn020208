@@ -6,11 +6,13 @@
 - Kyungmin IT Highschool graduate
 - Hansung UNIV Attending
 
-🔨 Tech Stack 🔨
+🚀 Tech Stack 🚀
 <br>
-Language : C, C++
-
-
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <!--
 **SebIn020208/SebIn020208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
