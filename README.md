@@ -2,14 +2,15 @@
 제 깃허브에 방문해주셔서 감사합니다.
 사이버보안학부에 재학중이고 개발자를 꿈꾸는 21학번입니다 :)
 
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-
 👩🏻‍💻 Experiences 👩🏻‍💻
 - Kyungmin IT Highschool graduate
 - Hansung UNIV Attending
 
 🔨 Tech Stack 🔨
+<br>
 Language : C, C++
+
+
 <!--
 **SebIn020208/SebIn020208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
