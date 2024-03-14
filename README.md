@@ -22,7 +22,7 @@
 
 <br> 🛠 Tools 🛠 <br>
 ![Github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=for-the-badge&logo=AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
   
  </div>
  <hr>
