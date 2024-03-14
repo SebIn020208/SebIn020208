@@ -18,7 +18,7 @@
 <br> 📚 Studying 📚 <br>
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Cyberdefenders](https://img.shields.io/badge/CyberSecurity-335EEA?style=for-the-badge&logo=cyberdefenders%2B%2B&logoColor=white)
+![Cyberdefenders](https://img.shields.io/badge/CyberSecurity-335EEA?style=for-the-badge&logo=ccyberdefenderslogoColor=white)
   
 <br> 📫 Social 📫<br>
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
