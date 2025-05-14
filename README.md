@@ -1,17 +1,17 @@
 ## 안녕하세요, 강세빈입니다. 👋
 제 깃허브에 방문해주셔서 감사합니다.
-사이버보안학부에 재학중이고 개발자를 꿈꾸는 21학번입니다 :)
+소비자의 편리함을 개선하고자 하는 개발자입니다. :)
 <hr>
 <div align="center">
 👩🏻‍💻 Experiences 👩🏻‍💻<br>
 - Kyungmin IT Highschool graduate <br>
 - Hansung UNIV Attending <br>
 
-<br> 🚀 Tech Stack 🚀<br>
+<br> 🚀 Main Tech Stack 🚀<br>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-<br>
+<br> 🎲 Minor Tech Stack 🎲<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMWare-607078?style=for-the-badge&logo=vmware&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
