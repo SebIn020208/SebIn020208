@@ -59,4 +59,3 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebIn020208)](https://github.com/SebIn020208/github-readme-stats)
 
 <hr>
--->
