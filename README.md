@@ -35,8 +35,8 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
  <hr>
-<!--
-**SebIn020208/SebIn020208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!-- **SebIn020208/SebIn020208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -50,13 +50,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-[![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebIn020208)](https://github.com/SebIn020208/github-readme-stats)
+<!-- [![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebIn020208)](https://github.com/SebIn020208/github-readme-stats&theme=radical) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebin&layout=compact)](https://github.com/SebIn020208/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebin&layout=compact)](https://github.com/SebIn020208/github-readme-stats)-->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddhkd)](https://solved.ac/rkdehddhkd/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebIn020208)](https://github.com/SebIn020208/github-readme-stats)
 
 <hr>
 </div>
