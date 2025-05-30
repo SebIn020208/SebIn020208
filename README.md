@@ -34,7 +34,6 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
- </div>
  <hr>
 <!--
 **SebIn020208/SebIn020208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,3 +59,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebIn020208)](https://github.com/SebIn020208/github-readme-stats)
 
 <hr>
+</div>
