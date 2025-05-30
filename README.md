@@ -50,11 +50,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebin&show_icons=true&theme=radical) 
+  
+![Sebin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebin&show_icons=true&theme=radical) 
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebin&layout=compact)](https://github.com/SebIn020208/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebin&layout=compact)](https://github.com/SebIn020208/github-readme-stats)
 
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddhkd)](https://solved.ac/rkdehddhkd/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdehddhkd)](https://solved.ac/rkdehddhkd/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebIn020208)](https://github.com/SebIn020208/github-readme-stats)
 
