@@ -5,7 +5,7 @@
 <div align="center">
 👩🏻‍💻 Experiences 👩🏻‍💻<br>
 - Kyungmin IT Highschool graduate <br>
-- Hansung UNIV Attending <br>
+- Hansung UNIV graduate <br>
 
 <br> 🚀 Main Tech Stack 🚀<br>
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
